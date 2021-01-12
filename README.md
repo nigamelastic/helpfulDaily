@@ -1,6 +1,6 @@
 # helpfulDaily
 
-A bunch of helpful shell scripts to boost productivity
+A bunch of helpful scripts to boost daily productivity
 
 
 ____________________________________________________________________________________________________________________________________________________________________________
