@@ -11,4 +11,4 @@ For example, in order to run `ls` simple Press "Esc" and type `:!ls`
 Open Vim and press "Esc" follwed by `:PlugInstall` , first time after running the installation script.
 Use away the enhanced vim experience. 
 
-PS : Removing all plugins `PlugClean` , Update/Upgrade all plugins `PlugUpdate/PlugUpgrade`
+PS : Removing all plugins `PlugClean` , Upgrade all plugins `PlugUpgrade`
