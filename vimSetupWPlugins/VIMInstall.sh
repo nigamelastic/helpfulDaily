@@ -4,12 +4,14 @@
 #### Remove the already installed tiny vim ####
 sudo apt-get remove vim-tiny
 
-### performing an update ###
+### Performing an update ###
 sudo apt-get update
 
-### installing vim 8.2 as of writing this script ####
+### Installing vim 8.2 as of writing this script ####
 sudo apt-get install vim
 
-
-### installing vim-plug
+### Installing vim-plug
 curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+
+### Adding .vimrc to home directory
+cp vimrc ~/.vimrc
