@@ -15,3 +15,6 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.c
 
 ### Adding .vimrc to home directory
 cp vimrc ~/.vimrc
+
+## Installing pylint via pip
+sudo pip3 install pylint
