@@ -12,3 +12,9 @@ Open Vim and press "Esc" follwed by `:PlugInstall` , first time after running th
 Use away the enhanced vim experience. 
 
 PS : Removing all plugins after deleting from vimrc `PlugClean` , Upgrade all plugins `PlugUpgrade`
+Plugin help via `help <PluginName>`, example `:help NERDTree`
+
+## Plugin Links
+https://github.com/preservim/nerdtree
+https://github.com/vim-syntastic/syntastic
+https://github.com/ycm-core/YouCompleteMe
