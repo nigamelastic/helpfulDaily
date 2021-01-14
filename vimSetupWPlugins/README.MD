@@ -17,4 +17,4 @@ Plugin help via `help <PluginName>`, example `:help NERDTree`
 ## Plugin Links
 https://github.com/preservim/nerdtree
 https://github.com/vim-syntastic/syntastic
-https://github.com/ycm-core/YouCompleteMe
+https://github.com/ervandew/supertab
