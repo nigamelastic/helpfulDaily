@@ -11,8 +11,7 @@ For example, in order to run `ls` simple Press "Esc" and type `:!ls`
 Open Vim and press "Esc" follwed by `:PlugInstall` , for the first time after running the installation script.  
 Use away the enhanced vim experience. 
 
-PS : Removing all plugins after deleting from vimrc `PlugClean` , Upgrade all plugins `PlugUpgrade`
-Plugin help via `help <PluginName>`, example `:help NERDTree`
+PS : Removing all plugins after deleting from vimrc `PlugClean` , Upgrade all plugins `PlugUpgrade`, use `Ctrl + w` multiple times to switch cursor. Plugin help via `help <PluginName>`, example `:help NERDTree`, 
 
 ## Plugin Links
 https://github.com/preservim/nerdtree  
