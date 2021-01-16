@@ -30,7 +30,7 @@ option:   -d -m   Start screen in "detached" mode. This creates a new session bu
 
 once u created the screen seen above u can run ur command in that specific screen using "screen -X"
 
-screen -S sessionName -p 0 -X stuff "ls^M"
-
-
+`screen -S sessionName -p 0 -X stuff "ls^M"`
 After the stuff you do need quotes. The ^M is the keycode the ENTER key sends to the terminal. If you omit it, screen will just type ls onto your terminal but not send the ENTER key afterwards.
+
+To send a CTRL+C to a session (e.g. to stop a running interactive process):  `screen -S sessionName -p 0 -X stuff "^C"`
