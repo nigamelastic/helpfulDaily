@@ -20,6 +20,7 @@ set updatetime=50
 call plug#begin('~/.vim/plugged')
         Plug 'scrooloose/syntastic'
         Plug 'ervandew/supertab'
+        Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
         Plug 'scrooloose/nerdtree'
 call plug#end()
 
