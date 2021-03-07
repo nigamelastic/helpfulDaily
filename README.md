@@ -12,5 +12,17 @@ A simple python script to make you appear available by constantly moving the mou
 The system must have python installed.
 install pyautogui on your system  (usuall via python available.py)
 ### Usage
-python available.py
+`python available.py`
+
+
+____________________________________________________________________________________________________________________________________________________________________________
+
+## FreshKali.sh
+### Description
+The Scripts installs all the Essential tools I require after logging in a fresh kali installation.
+
+### Usage
+no need to copy anything just type the following and it will download and execute the files directly from command line
+`wget -O - https://raw.githubusercontent.com/nigamelastic/helpfulDaily/master/FreshKali.sh | bash`
+
 
