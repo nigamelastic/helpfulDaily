@@ -23,6 +23,7 @@ The Scripts installs all the Essential tools I require after logging in a fresh 
 
 ### Usage
 no need to copy anything just type the following and it will download and execute the files directly from command line
+
 `wget -O - https://raw.githubusercontent.com/nigamelastic/helpfulDaily/master/FreshKali.sh | bash`
 
 
