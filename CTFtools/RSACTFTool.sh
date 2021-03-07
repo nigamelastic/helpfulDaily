@@ -2,8 +2,11 @@
 
 #installs RSA CTF TOOl
 git clone https://github.com/Ganapati/RsaCtfTool.git
+
+sudo apt-get install -y libgmp3-dev 
+sudo apt-get install -y libmpc-dev
 cd RsaCtfTool
-sudo apt-get install -y libgmp3-dev libmpc-dev 
+ 
 pip3 install -r "requirements.txt"
 
 
