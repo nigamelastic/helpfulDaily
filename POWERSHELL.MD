@@ -8,5 +8,5 @@
 `https://www.microsoft.com/en-in/p/windows-terminal/9n0dx20hk701?rtc=1&activetab=pivot:overviewtab`
 
 ### Setting up Display variable before ssh {powershell support ssh}
-`set DISPLAY=127.0.0.1:0`
+`set DISPLAY=127.0.0.1:0`   
 `ssh -X <user>@<server>`
