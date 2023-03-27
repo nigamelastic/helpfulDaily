@@ -7,6 +7,6 @@ sudo apt install tree
 sudo apt remove tiny-vim 
 sudo apt install neovim
 sudo apt install screen
-
+sudo apt install lolcat
 sudo apt install -y docker.io
 
