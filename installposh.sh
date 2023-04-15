@@ -4,3 +4,4 @@ sudo wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/
 sudo chmod +x /usr/local/bin/oh-my-posh
 echo 'eval "$(oh-my-posh init zsh)"'  >> ~/.zshrc
 oh-my-posh font install
+
